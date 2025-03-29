@@ -15,6 +15,7 @@ import org.opencv.objdetect.CascadeClassifier;
 import org.opencv.videoio.VideoCapture;
 
 public class CameraGUI {
+	// testing
 	static {
 		System.loadLibrary(Core.NATIVE_LIBRARY_NAME); // Load OpenCV library
 	}
